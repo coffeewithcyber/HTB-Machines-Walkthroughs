@@ -16,4 +16,25 @@ to get till this ans we need to have to do some nmap scanning... i used nmap cla
 
 <img width="449" height="36" alt="Appoitment nmap scan" src="https://github.com/user-attachments/assets/a79f708a-8a5f-4df3-8933-e9a41dd56108" />
 
-5. 
+5. What is the standard port used for the HTTPS protocol?
+- 443
+
+6. What is a folder called in web-application terminology?
+- Directory
+
+7. What is the HTTP response code is given for 'Not Found' errors?
+- 404
+
+8. Gobuster is one tool used to brute force directories on a webserver. What switch do we use with Gobuster to specify we're looking to discover directories, and not subdomains?
+- dir
+
+9. What single character can be used to comment out the rest of a line in MySQL?
+- #
+
+10. If user input is not handled carefully, it could be interpreted as a comment. Use a comment to login as admin without knowing the password. What is the first word on the webpage returned? 
+- congratulations
+to see what to get after we solved the machine i do try some payloads on login page of the IP and then i get this message and flag after i inter this payload: " OR 1=1 --   for username and password for both then it successfully execute and give me the message 
+  
+11. Submit root flag
+- successfully solved
+
